@@ -1,5 +1,12 @@
+title:    hello-world
+date:     2026-07-20
+slug:     string
+kind:     writeup     
+draft:    true                
+summary:  This is a test post, designed to confirm formatting and rendering of markdown content with front matter header.     
+
 # HELLO WORLD :D
-This is a test post, designed to confirm formatting and rendering of markdown content.
+This is a test post, designed to confirm formatting and rendering of markdown content with front matter header.
 
 **Bold Text**
 
